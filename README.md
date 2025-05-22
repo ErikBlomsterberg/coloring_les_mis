@@ -13,7 +13,7 @@ This repository contains some of the code that was created in relation to my mas
 The notebooks contains the code that was used to create the different networks.
 
 ## Setup
-1. install requirements listed in requirements.txt
+1. pip install -r requirements.txt
 2. Unzip rar-files
 3. 'tendimension' is a NLP-tool called by the file 'ttn_to_mttn.ipynb', instruction to set up the tool: https://github.com/lajello/tendimensions.
 
