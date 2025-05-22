@@ -14,7 +14,7 @@ The notebooks contains the code that was used to create the different networks.
 
 ## Setup
 1. install requirements listed in requirements.txt
-2. 'tendimension' is a NLP-tool called by the file 'ttn_to_mttn'. Instruction to set up the tool: https://github.com/lajello/tendimensions.
+2. 'tendimension' is a NLP-tool called by the file 'ttn_to_mttn.ipynb'. Instruction to set up the tool: https://github.com/lajello/tendimensions.
 
 ## Author
 Erik Blomsterberg
