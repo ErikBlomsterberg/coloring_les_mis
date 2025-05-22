@@ -13,9 +13,10 @@ This repository contains some of the code that was created in relation to my mas
 The notebooks contains the code that was used to create the different networks.
 
 ## Setup
-1. pip install -r requirements.txt
-2. Unzip data.rar
-3. 'tendimension' is a NLP-tool called by the file 'ttn_to_mttn.ipynb', instruction to set up the tool: https://github.com/lajello/tendimensions.
+1. Unzip data.rar to access networks and dataset 
+2. pip install -r requirements.txt (may contain packages that are not needed)
+3. Set up the NLP-tool 'tendimension' that is called is by the file 'ttn_to_mttn.ipynb', instruction to set up the tool: https://github.com/lajello/tendimensions.
+4. Replace "print("Vocab size: %d" %len(self.model.vocab))" on line 76 in 'tendimensions/features/embedding_features.py' with "print("Vocab size: %d" %len(self.model.key_to_index))", to make 'tendimensions' work. 
 
 ## Author
 Erik Blomsterberg
