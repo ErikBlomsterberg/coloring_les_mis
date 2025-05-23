@@ -15,7 +15,8 @@ This repository contains a dataset, networks, and some of the code that was crea
 The notebooks contains the code that was used to create the different networks.
 
 ## Setup
-1. Unzip 'data.rar' to access networks and Les Misérables(1998) dataset. 
+1. Unzip 'data.rar' to access networks and Les Misérables(1998) dataset.
+#### To run code:
 2. pip install -r requirements.txt (may contain packages that are not needed).
 3. Set up the NLP-tool 'tendimension'(called in 'ttn_to_mttn.ipynb') by following the instructions provided here: https://github.com/lajello/tendimensions.
 4. Replace "print("Vocab size: %d" %len(self.model.vocab))" on line 76 in 'tendimensions/features/embedding_features.py' with "print("Vocab size: %d" %len(self.model.key_to_index))" to make 'tendimensions' work. 
