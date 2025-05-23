@@ -12,7 +12,7 @@ This repository contains a dataset, networks, and some of the code that was crea
 
 'data/multilayer_social_networks' contains various multilayer social networks derived from 'data/ttn_nets/mttn.txt'.
 
-'srt_to_csv_and_more.ipynd' contains the code that was used for constructing the Les Misérables(1998) dataset. (OBS! needs a SRT-file to run and adjustment of paths)
+'srt_to_csv_and_more.ipynd' contains the code that was used for constructing the Les Misérables(1998) dataset. (OBS! needs a SRT-file to run and adjustment of path-names)
 
 Notebooks(except 'srt_to_csv_and_more.ipynd') contains the code that was used to create the different networks.
 
