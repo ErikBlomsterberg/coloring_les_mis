@@ -23,7 +23,7 @@ Notebooks(except 'srt_to_csv_and_more.ipynd') contains the code that was used to
 3. Set up the NLP-tool 'tendimension'(called in 'ttn_to_mttn.ipynb') by following the instructions provided here: https://github.com/lajello/tendimensions.
 4. Replace "print("Vocab size: %d" %len(self.model.vocab))" on line 76 in 'tendimensions/features/embedding_features.py' with "print("Vocab size: %d" %len(self.model.key_to_index))" to make 'tendimensions' work. 
 #### To run 'srt_to_csv_and_more.ipynd':
-1. Download a SRT-file
+1. Download a SRT-file.
 2. Adjust path names in 'srt_to_csv_and_more.ipynd'.
 ## Author
 Erik Blomsterberg
