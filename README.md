@@ -6,9 +6,11 @@ This repository contains a dataset, networks, and some of the code that was crea
 
 'data/ttn_nets' contains temporal text networks created from 'les_mis_dataset.csv'.
 
+'data/flat_ttn_nets' one flat ttn for each layer in 'data/ttn_nets/mttn.txt'.
+
 'data/multilayer_message_networks' contains various multilayer message networks derived from 'Data/ttn_nets/mttn.txt'.
 
-'data/multilayer_cosial_networks' contains various multilayer social networks derived from 'Data/ttn_nets/mttn.txt'.
+'data/multilayer_social_networks' contains various multilayer social networks derived from 'Data/ttn_nets/mttn.txt'.
 
 The notebooks contains the code that was used to create the different networks.
 
