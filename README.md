@@ -14,7 +14,7 @@ This repository contains a dataset, networks, and some of the code that was crea
 
 'srt_to_csv_and_more.ipynd' contains the code that was used for constructing the Les Misérables(1998) dataset. (OBS! needs a SRT-file to run and adjustment of paths)
 
-Notebooks other than 'srt_to_csv_and_more.ipynd' contains the code that was used to create the different networks.
+Notebooks(except 'srt_to_csv_and_more.ipynd') contains the code that was used to create the different networks.
 
 ## Setup
 1. Unzip 'data.rar' to access networks and Les Misérables(1998) dataset.
