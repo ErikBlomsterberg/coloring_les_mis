@@ -1,5 +1,5 @@
 # Coloring Les Mis
-This repository contains a dataset, networks, and some of the code that was created in relation to my master's thesis in engineering at Uppsala university. The thesis is called "Coloring Les Mis - A Multilayer Network Approach for Modeling and Characterizing Interpersonal Relationships"(will be properly referred to once it is uploaded). I refer to the thesis for a detailed description of the process for creating the dataset.  
+This repository contains a dataset, networks, and some of the code that was created in relation to my master's thesis in engineering at Uppsala university. The thesis is called "Coloring Les Mis - A Multilayer Network Approach for Modeling and Characterizing Interpersonal Relationships"(will be properly referenced once it is uploaded). I refer to the thesis for a detailed description of the process for creating the dataset.  
 
 ## Files and Folders
 'data/les_mis_dataset.csv' contains the subtitle, speaker, recipients, and time of every utterance in the movie Les Misérables(1998).
